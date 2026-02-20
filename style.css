@@ -1,0 +1,99 @@
+body {
+	margin: 0;
+	background-color: black;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	gap: 16px;
+	color: white;
+	padding: 20px;
+}
+
+.logo {
+	display: flex;
+	padding: 20px;
+}
+
+ul {
+	display: flex;
+	list-style: none;
+	gap: 20px;
+}
+
+header {
+	background-color: black;
+    padding: auto;
+    border-block: auto;
+}
+
+.hero {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	color: white;
+	background-color: black;
+}
+
+img {
+  padding: 20px;
+}
+
+h1 {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.text {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.cards{
+	display: flex;
+	justify-content: center;
+	gap: 5px;
+	padding: 15px;
+}
+
+.box {
+	color: white;
+	margin-left: 20px;
+	position: relative;
+	left: 125px;
+}
+
+.box2 {
+	color: white;
+	position: relative;
+	left: 150px;
+}
+
+.frase {
+	color: white;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	font-size: impact;
+}
+
+h2 {
+	color: white;
+	display: flex;
+	position: relative;
+	bottom: -160px;
+	padding: 20px;
+}
+
+.text {
+	color: white;
+	display: flex;
+	flex-direction: column;
+}
+
+.img2 {
+	display: flex;
+	justify-content: center;
+}
